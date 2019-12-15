@@ -1,0 +1,10 @@
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\PictureFlipper\obj\Debug\PictureFlipper.csprojAssemblyReference.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\PictureFlipper\obj\Debug\PictureFlipper.Form1.resources
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\PictureFlipper\obj\Debug\PictureFlipper.Properties.Resources.resources
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\PictureFlipper\obj\Debug\PictureFlipper.csproj.GenerateResource.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\PictureFlipper\obj\Debug\PictureFlipper.csproj.CoreCompileInputs.cache
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\PictureFlipper\bin\Debug\PictureFlipper.exe.config
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\PictureFlipper\bin\Debug\PictureFlipper.exe
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\PictureFlipper\bin\Debug\PictureFlipper.pdb
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\PictureFlipper\obj\Debug\PictureFlipper.exe
+C:\Users\Princess\source\repos\Programmirovanie v NetFramwork\Ura\PictureFlipper\obj\Debug\PictureFlipper.pdb
